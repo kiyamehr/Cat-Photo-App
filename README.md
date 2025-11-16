@@ -17,4 +17,4 @@ I’m just getting started, so I’ll upload more small projects as I learn more
 This is basically the beginning of my frontend journey.
 
 Link to the course: 
-[text](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
+[freeCodeCamp.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-by-building-a-cat-photo-app)
